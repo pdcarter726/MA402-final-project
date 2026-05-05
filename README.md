@@ -84,11 +84,6 @@ The main issue I encountered was environment setup. `petsc4py` does not support 
 ## Install and Run the solver
 
 ```bash
-# Requires a working MPI + PETSc + petsc4py installation
-pip install petsc4py
-```
-
-```bash
 # Install Ubuntu into the Windows operating system
 wsl --install
 
