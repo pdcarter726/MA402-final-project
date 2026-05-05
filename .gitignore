@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints and outputs
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Generated plot images
+*.png
+
+# Virtual environments
+venv/
+petsc_env/
+
+# PETSc build artifacts
+arch-python/
+
+# OS
+.DS_Store
+Thumbs.db
